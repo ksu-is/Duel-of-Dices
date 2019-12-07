@@ -1,11 +1,11 @@
-[] Evaluate the code at https://github.com/shreyasn25/rolling-dice-game and incorporate effects into Duel of Dices. (Ebonee)
-[] Evaluate the code located at https://github.com/borntyping/python-dice and decide whether or not to create Duel of Dices similar to it.(Ebonee)
-[] Develop code in a creative way for Duel of Dices that includes effects and possibly surprises. (Ebonee)
-[x] DONE Find code to use as a guideline (Ebonee)
-[x] DONE Writing documentation for code
-[x] DONE Integrating code
-[x] DONE Developing code for the dice game
-[x] DONE Testing the code
-[x] DONE Brainstorming best special effects to add to code 
-[x] DONE Adding and testing out different special effects within the code
-[x] DONE Create final code for Duel of Dices
+- [] Evaluate the code at https://github.com/shreyasn25/rolling-dice-game and incorporate effects into Duel of Dices. (Ebonee)
+- [] Evaluate the code located at https://github.com/borntyping/python-dice and decide whether or not to create Duel of Dices similar to it.(Ebonee)
+- [] Develop code in a creative way for Duel of Dices that includes effects and possibly surprises. (Ebonee)
+- [x] DONE Find code to use as a guideline (Ebonee)
+- [x] DONE Writing documentation for code
+- [x] DONE Integrating code
+- [x] DONE Developing code for the dice game
+- [x] DONE Testing the code
+- [x] DONE Brainstorming best special effects to add to code 
+- [x] DONE Adding and testing out different special effects within the code
+- [x] DONE Create final code for Duel of Dices
