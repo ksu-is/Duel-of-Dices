@@ -1,3 +1,5 @@
+- [x] Create repository DONE
+- [x] Create readme file DONE
 - [x] Evaluate the code at https://github.com/shreyasn25/rolling-dice-game and incorporate effects into Duel of Dices. (Ebonee)
 - [x] Evaluate the code located at https://github.com/borntyping/python-dice and decide whether or not to create Duel of Dices similar to it.(Ebonee)
 - [x] Develop code in a creative way for Duel of Dices that includes effects and possibly surprises. (Ebonee)
